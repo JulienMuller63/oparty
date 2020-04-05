@@ -1,0 +1,10 @@
+wp-config.php
+wp/
+content/languages/*
+content/plugins/*
+!content/plugins/oparty
+content/themes/*
+!content/themes/oparty
+content/upgrade/*
+content/debug.log
+/vendor/
