@@ -2,7 +2,7 @@
 
 Site vitrine créé à la fin de ma formation O'Clock, à la suite de la spé Wordpress.
 
-![screenshot](C:\laragon\www\oparty\content\themes\oparty\screenshot.jpg)
+![screenshot](screenshot.jpg)
 
 ## Liste des étapes:
 
